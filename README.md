@@ -7,7 +7,7 @@
 Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+Data analysis of three major cities: the United States - Chicago, New York and Washington.
 
 ### Files used
 Include the files used
