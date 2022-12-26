@@ -1,6 +1,8 @@
 import time
 import pandas as pd
 import numpy as np
+  
+  print("Hello WALAA")
 
 CITY_DATA = { '1': 'chicago.csv',
               '2': 'new_york_city.csv',
@@ -198,6 +200,9 @@ def main():
 
         restart = input('\nWould you like to restart? Enter Y/N : ')
         if restart.lower() != 'y':
+            def printIno():
+                print("Thank you ..")
+                print("Good job")
             break
 
 if __name__ == "__main__":
