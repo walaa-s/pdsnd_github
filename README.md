@@ -14,6 +14,16 @@ Data analysis of three major cities: the United States - Chicago, New York and W
 2-new_york_city.csv
 3-washington.csv
 
+
+What Software Do I Need?
+you need have to complete this project:
+
+Python
+A text editor, like Sublime or Atom
+A terminal application
+3 excel files
+
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
