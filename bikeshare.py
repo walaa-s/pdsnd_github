@@ -202,6 +202,7 @@ def main():
         if restart.lower() != 'y':
             def printIno():
                 print("Thank you ..")
+                print("Good job")
             break
 
 if __name__ == "__main__":
