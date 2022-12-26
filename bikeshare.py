@@ -200,6 +200,8 @@ def main():
 
         restart = input('\nWould you like to restart? Enter Y/N : ')
         if restart.lower() != 'y':
+            def printIno():
+                print("Thank you ..")
             break
 
 if __name__ == "__main__":
